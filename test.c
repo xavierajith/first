@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <malloc.h>
 
-char *test;
 void main()
 {
+    char *test;
     test = (char *)malloc(10);
     *test++ = 'c';
     *test++ = '\0';
