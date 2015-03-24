@@ -12,5 +12,12 @@ void main()
     printf("0x%x Address in test \n",test);
     printf("0x%x Address of test \n",&test);
     printf("%s Value in test\n",*test);
+
+    experiment();
 }
 //modifiying from fix-header branch
+
+int experiment()
+{
+    return 0;
+}
