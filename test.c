@@ -18,5 +18,5 @@ void main()
 
 int experiment()
 {
-    return 0;
+    return -1 ;
 }
