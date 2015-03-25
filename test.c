@@ -4,6 +4,7 @@
 //changing something
 void main()
 {
+    //bug fix from fix-headers
     char *test;
     test = (char *)malloc(10);
     *test++ = 'c';
