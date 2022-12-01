@@ -1,0 +1,3 @@
+[submodule "dependency1"]
+	path = dependency1
+	url = git@github.com:xavierajith/dependecny1.git
